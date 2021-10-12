@@ -1,4 +1,4 @@
-# Mutational_data_extraction
+# Mutational_data_extraction_notebook
 Extraction,cleaning and transformation of mutational data from gpcrdb.org
 
 The present notebook works based on mutational data downloaded from gpcrdb.org. It helps clean and transform the data into a analysis-friendly excel format
